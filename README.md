@@ -1,7 +1,7 @@
 ## 🚀Sistema de Notificaciones - Patrones Creacionales
 
 Este proyecto implementa un sistema de gestión de notificaciones para una aplicación de e-commerce, aplicando patrones de diseño para garantizar la escalabilidad y la integridad de los datos.
-Desarrollado como parte del laboratorio de la Unidad 2 de la asignatura Ingeniería de Sistemas en la Universidad Francisco de Paula Santander.
+Desarrollado como parte del laboratorio de la Unidad 2 de la asignatura patrones de dise{o .
 
 ## 🛠️Tecnologías Utilizadas
 
